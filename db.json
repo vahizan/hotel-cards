@@ -1,0 +1,120 @@
+{
+  "posts": [
+    { "id": 1,
+      "imageUrl": "https://images.pexels.com/photos/2857716/pexels-photo-2857716.jpeg?cs=srgb&dl=pexels-ethan-wilkinson-2857716.jpg&fm=jpg",
+      "title": "Dubai Hotel",
+      "location": "Dubai, United Arab Emirates",
+      "starRating": 5,
+      "userRating": 72,
+      "totalReviews": 100,
+      "totalPrice": 3600,
+      "perPersonPrice": 1200,
+      "priceIncludes": [
+        "Room Only",
+        "Local charges Payable at Hotel"
+      ]
+    },
+    { "id": 2,
+      "imageUrl": "https://images.pexels.com/photos/4825701/pexels-photo-4825701.jpeg?cs=srgb&dl=pexels-rachel-claire-4825701.jpg&fm=jpg",
+      "title": "Beach Side Hotel",
+      "location": "Beach Side, Seaside, Somewhere",
+      "starRating": 4,
+      "userRating": 60,
+      "totalReviews": 1100,
+      "totalPrice": 1200,
+      "perPersonPrice": 600,
+      "priceIncludes": [
+        "Room Only",
+        "Local charges Payable at Hotel"
+      ]
+    },
+    { "id": 3,
+      "imageUrl": "https://images.pexels.com/photos/962464/pexels-photo-962464.jpeg?cs=srgb&dl=pexels-godson-bright-962464.jpg&fm=jpg",
+      "title": "Boathouse Hotel",
+      "location": "Boat, Boat, In a Boat",
+      "starRating": 3,
+      "userRating": 50,
+      "totalReviews": 100,
+      "totalPrice": 600,
+      "perPersonPrice": 200,
+      "priceIncludes": [
+        "Room Only",
+        "Local charges Payable at Hotel"
+      ]},
+    { "id": 4,
+      "imageUrl": "https://images.pexels.com/photos/3209049/pexels-photo-3209049.jpeg?cs=srgb&dl=pexels-jason-boyd-3209049.jpg&fm=jpg",
+      "title": "India Hotel",
+      "location": "India, ",
+      "starRating": 5,
+      "userRating": 90,
+      "totalReviews": 1000,
+      "totalPrice": 4000,
+      "perPersonPrice": 1000,
+      "priceIncludes": [
+        "Room Only"
+      ]},
+    { "id": 5,
+      "imageUrl": "https://images.pexels.com/photos/221457/pexels-photo-221457.jpeg?cs=srgb&dl=pexels-pixabay-221457.jpg&fm=jpg",
+      "title": "Lavish Hotel",
+      "location": "Lavish, United Arab Emirates",
+      "starRating": 5,
+      "userRating": 70,
+      "totalReviews": 100,
+      "totalPrice": 3600,
+      "perPersonPrice": 1200,
+      "priceIncludes": [
+        "Room Only",
+        "Breakfast Included",
+        "Local charges Payable at Hotel",
+        "150 restaurant credit"
+      ]
+    },
+    { "id": 6,
+      "imageUrl": "https://images.pexels.com/photos/2507007/pexels-photo-2507007.jpeg?cs=srgb&dl=pexels-quark-studio-2507007.jpg&fm=jpg",
+      "title": "Maldives By The Sea",
+      "location": "Body of Water, Maldives",
+      "starRating": 5,
+      "userRating": 80,
+      "totalReviews": 1200,
+      "totalPrice": 6000,
+      "perPersonPrice": 2000,
+      "priceIncludes": [
+        "Room Only",
+        "Breakfast Included",
+        "Local charges Payable at Hotel",
+        "150 restaurant credit"
+      ]},
+    { "id": 7,
+      "imageUrl": "https://images.pexels.com/photos/3914755/pexels-photo-3914755.jpeg?cs=srgb&dl=pexels-soulful-pizza-3914755.jpg&fm=jpg",
+      "title": "Marina Bay Hotel",
+      "location": "Marina Bay, Singapore",
+      "starRating": 5,
+      "userRating": 90,
+      "totalReviews": 1200,
+      "totalPrice": 6000,
+      "perPersonPrice": 2000,
+      "priceIncludes": [
+        "Room Only",
+        "Breakfast Included",
+        "Local charges Payable at Hotel",
+        "150 restaurant credit",
+        "Free car"
+      ]},
+    { "id": 8,
+      "imageUrl": "https://images.pexels.com/photos/2598638/pexels-photo-2598638.jpeg?cs=srgb&dl=pexels-leonardo-rossatti-2598638.jpg&fm=jpg",
+      "title": "Spain Hotel",
+      "location": "Barcelona, Spain",
+      "starRating": 3,
+      "userRating": 70,
+      "totalReviews": 100,
+      "totalPrice": 1000,
+      "perPersonPrice": 250,
+      "priceIncludes": [
+        "Room Only"
+      ]}
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
